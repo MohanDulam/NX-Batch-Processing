@@ -1,4 +1,4 @@
-Downlaod and Extrack the "NX-Batch-Processing.rar" file given in the Support Files folder in this code.
+Downlaod and Extract the "NX-Batch-Processing.rar" file given in the Support Files folder in this code.
 
 Run the "NX-Batch-Processing.exe". The below shown windows will open. (Note: don't rename the "BatchExport.exe" file, and both file must be in same folder)
 
