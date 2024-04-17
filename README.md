@@ -20,3 +20,5 @@ Each formats will export to given export directory in separate folders
 
 <img width="540" alt="image" src="https://github.com/MohanDulam/NX-Batch-Processing/assets/111222356/6721220e-61a6-440e-9fe0-ef12e5528ece">
 
+
+Code for the BatchExport.exe file (https://github.com/MohanDulam/BatchExport)
